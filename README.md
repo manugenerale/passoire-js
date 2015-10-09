@@ -30,19 +30,13 @@ You can style it in your css using the class #passoire For example:
 ```
 
 
-To initialize, just load midnight and initialize it
+To initialize, just load passoire and click on the colander
 
 ```html
     <!-- jQuery -->
     <script src="assets/js/jquery.js"></script>
     <!-- Passoire-js -->
     <script src="assets/js/passoire.js"></script>
-<script>
-  // Start passoire
-  $(document).ready(function(){
-    passoire();
-  });
-</script>
 ```
 
 ## Credit
