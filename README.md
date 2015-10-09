@@ -2,6 +2,8 @@
 A Jquery plugin to celebrate the come back of #passoire effect on Canal+
 Un plugin Jquery pour célébrer le retour de l'effet #passoire sur Canal+
 
+A voir en démonstration sur http://www.manufacturegenerale.com
+
 ## Quick start
 
 
